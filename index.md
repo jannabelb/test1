@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Water: A Scarce Resource. 
+# What the future warns us about this basic yet necessary resource.
 
-You can use the [editor on GitHub](https://github.com/jannabelb/test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Water. We need it to survive. But as climate change evolves, many problems arise with water. These include: 1. water pollution 2. water access/infrastructure 3. droughts and 4. flooding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Why should we care?**
+Not enough water --> Panic, thirst, disease, destruction, war, death
 
-### Markdown
+**How can we act now?**
+To alleviate water pollution --> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To alleviate water access/infrastructure --> Leaky pipes and aging water infrastructure waste 6 billion gallons a day. This would be able to meet 15 million household's needs. 
 
-```markdown
-Syntax highlighted code block
+To alleviate extreme weather in the form of droughts --> 
 
-# Header 1
-## Header 2
-### Header 3
+To alleviate extreme weather in the form of flooding --> 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jannabelb/test1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
